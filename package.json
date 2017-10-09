@@ -1,0 +1,25 @@
+{
+  "name": "train_details",
+  "version": "1.0.0",
+  "description": "Get train details",
+  "main": "status.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "kprateek09",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.83.0",
+    "prompt" : "latest"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kprateek09/Train_Details.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kprateek09/Train_Details/issues"
+  },
+  "homepage": "https://github.com/kprateek09/Train_Details#readme"
+}
